@@ -1,0 +1,95 @@
+/* Exemple 29-13 : styles.css */
+
+* {
+  font-family:verdana,sans-serif;
+  font-size  :14pt;
+}
+
+body {
+  width     :auto;
+  margin    :20px auto;
+  background:#f8f8f8;
+  /* border    :1px solid #888; */
+}
+
+html {
+  background:#fff
+}
+
+.username {
+  text-align :center;
+  background :#839AA8;
+  color      : white;
+  font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+  font-size  :30pt;
+  padding    :4px;
+  margin-top: 8px;
+}
+
+.info {
+  font-style :italic;
+  margin     :40px 0px;
+  text-align :center;
+}
+
+.center {
+  text-align:center;
+  font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+  font-size: 20px;
+}
+
+/* .subhead {
+  font-weight:bold;
+} */
+
+.taken, .error {
+  color:#006E7F;
+}
+
+.available {
+  color:green;
+}
+
+.whisper {
+  font-style:italic;
+  color     :#006600;
+}
+
+#logo {
+  font-family:Georgia;
+  /* font-weight:bold; */
+  font-style :italic;
+  font-size  :97px;
+}
+
+img#title{
+  padding: 30px;
+  border-radius: 1000px;
+  width: 200px;
+  height: 200px;
+
+}
+img{
+  width: 480px;
+  height: 370px;
+ margin-left:8px;
+ margin-bottom:1px;
+}
+
+#used {
+  margin-top:50px;
+}
+
+.header{
+  display: block;
+  height: 150px;
+  padding: 30px;
+}
+
+
+h1{
+  font-size: 100px;
+}
+#photos{
+  background-color: white;
+}

@@ -1,9 +1,9 @@
 /* Exemple 29-13 : styles.css */
 
-* {
+/* * {
   font-family:verdana,sans-serif;
   font-size  :14pt;
-}
+} */
 
 body {
   width     :auto;
@@ -20,8 +20,8 @@ html {
   text-align :center;
   background :#839AA8;
   color      : white;
-  font-family: 'IBM Plex Sans Thai Looped', sans-serif;
-  font-size  :30pt;
+  font-family: 'Raleway', sans-serif;
+  font-size  :35px;
   padding    :4px;
   margin-top: 8px;
 }
@@ -35,7 +35,7 @@ html {
 .center {
   text-align:center;
   font-family: 'IBM Plex Sans Thai Looped', sans-serif;
-  font-size: 20px;
+  font-size: 15px;
 }
 
 /* .subhead {
@@ -63,15 +63,16 @@ html {
 }
 
 img#title{
-  padding: 30px;
+  padding: 15px;
   border-radius: 1000px;
   width: 200px;
   height: 200px;
 
 }
+
 img{
   width: 480px;
-  height: 370px;
+  height: 330px;
  margin-left:8px;
  margin-bottom:1px;
 }
@@ -83,13 +84,37 @@ img{
 .header{
   display: block;
   height: 150px;
-  padding: 30px;
+  padding: 20px;
 }
 
+input{
+  background-color: aqua;
+}
 
 h1{
   font-size: 100px;
 }
 #photos{
   background-color: white;
+}
+
+label{
+  text-align :center;
+}
+
+@media only screen and (max-width: 2350px) {
+  img {
+    width:24%;
+  }
+}
+@media only screen and (max-width: 1400px) {
+  img {
+    width:49%;
+  }
+}
+@media only screen and (max-width: 1022px) {
+  img {
+    width:98%;
+    height:30%;
+  }
 }

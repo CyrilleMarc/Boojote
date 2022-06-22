@@ -1,9 +1,9 @@
-<?php // Exemple 29-1 : functions.php
-  $dbhost = 'localhost';    // Modifier au besoin
-  $dbdata = 'database';   // Modifier au besoin
-  $dbuser = 'root';   // Modifier au besoin
-  $dbpass = '';  // Modifier au besoin
-  $dbchrs = 'utf8mb4';      // Imposer le jeu de caractères utf8
+<?php 
+  $dbhost = 'localhost';   
+  $dbdata = 'DiskuT';   
+  $dbuser = 'root';  
+  $dbpass = '';  
+  $dbchrs = 'utf8mb4';  
   $dbattr = "mysql:host=$dbhost;dbname=$dbdata;charset=$dbchrs";
   $dbopts =
   [

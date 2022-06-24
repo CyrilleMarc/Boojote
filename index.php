@@ -7,7 +7,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Amatic+SC&family=Hurricane&family=IBM+Plex+Sans+Thai+Looped:wght@300&family=Inspiration&family=Palette+Mosaic&family=Raleway:wght@100&display=swap" 
   rel="stylesheet">
   <!-- <link rel='stylesheet' href='styles.css' type='text/css'> -->
-  <title>Document</title>
+  <title>Boojote</title>
 </head>
 <body>
   
@@ -24,13 +24,20 @@
   echo <<<_END
       </div><br>
     </div>
-    <div data-role="footer">
     <div class="photos"><img  src='./images/dino-reichmuth-A5rCN8626Ck-unsplash.jpg'>
     <img  src='./images/pietro-de-grandi-T7K4aEPoGGk-unsplash.jpg' alt= ''>
     <img  src='./images/simon-english-dYcypsY4i3I-unsplash.jpg'>
     <img  src='./images/DiskuT4.jpeg' alt='Photo by Christine Roy on Unsplash'>
     </div>
+
   </body>
 </html>
 _END;
 ?>
+
+<div class="center">
+  <h2>Contacts</h2>
+    <a href="https://www.linkedin.com/in/cyrille-marc-3914a5130/" target="_blank"><img src="./images/LinkedIn_logo_initials.png" class="coordonnées" ></a>
+    <a href="https://github.com/CyrilleMarc" target="_blank"><img src="./images/GitHub-logo.jpg" class="coordonnées"></a>
+    <a href="" target="_blank"><img src="./images/cm.jpeg" class="coordonnées"></a>
+</div>

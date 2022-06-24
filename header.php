@@ -17,7 +17,7 @@ _INITIAL;
 
   require_once 'functions.php';
 
-  $userstr = 'Bienvenue sur DiskuT le site d\'échange de bons plans entre voyageurs.';
+  $userstr = 'Bienvenue sur Boojote le site d\'échange de bons plans entre voyageurs.';
   $randstr = substr(md5(rand()), 0, 7);
 
   if (isset($_SESSION['user']))
@@ -29,12 +29,12 @@ _INITIAL;
   else $loggedin = FALSE;  // Utilisateur non identifié
 
 echo <<<_PRINCIPAL
-    <title> "Diskut member: $user"</title>
+    <title> "Boojote member: $user"</title>
   </head>
   <body>
     <div data-role='page'>
        <div data-role='header'>
-        <div><img id='title' src='./images/DiskuT.jpeg'></div>
+        <div><img id='title' src='./images/Boojote.jpeg'></div>
         <div class='username'>$userstr</div>
       </div>
       <div data-role='content'>

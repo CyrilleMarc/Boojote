@@ -1,8 +1,8 @@
 <?php 
-  $dbhost = 'localhost';   
-  $dbdata = 'DiskuT';   
-  $dbuser = 'root';  
-  $dbpass = '';  
+  $dbhost = 'eu-cdbr-west-02.cleardb.net';   
+  $dbdata = 'heroku_5df1c0ceda6ea59';   
+  $dbuser = 'bc3b63c8491b8c';  
+  $dbpass = '88c6c5f4';  
   $dbchrs = 'utf8mb4';  
   $dbattr = "mysql:host=$dbhost;dbname=$dbdata;charset=$dbchrs";
   $dbopts =

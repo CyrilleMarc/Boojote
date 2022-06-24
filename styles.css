@@ -93,8 +93,38 @@ h1{
   font-size: 100px;
 }
 #dormir:hover{
-  opacity: 0.5;
+  opacity: 0.6;
 } 
+
+#visites:hover{
+  opacity: 0.6;
+} 
+
+#activites:hover{
+  opacity: 0.6;
+} 
+
+#infos:hover{
+  opacity: 0.6;
+} 
+
+#linkedin:hover{
+  transition: all .2s ease-in-out;
+  width: 32px;
+  height: 27px;
+}
+
+#github:hover{
+  transition: all .2s ease-in-out;
+  width: 32px;
+  height: 27px;
+}
+
+#portfolio:hover{
+  transition: all .2s ease-in-out;
+  width: 32px;
+  height: 27px;
+}
 
 label{
   text-align :right;
@@ -109,9 +139,16 @@ label{
 }
 
 h2{
+  margin-top: 15px;
   font-weight: bolder;
   font-size: 15px;
   font-family: 'Raleway', sans-serif;
+}
+
+#carte{
+  width: 50%;
+  height: 50%;
+  margin-left:23%;
 }
 
 

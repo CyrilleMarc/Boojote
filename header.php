@@ -46,7 +46,7 @@ _PRINCIPAL;
 echo <<<_CONNECTE
         <div class='center'>
           <a data-role='button' data-inline='true' data-icon='home'
-            data-transition="slide" href='members.php?view=$user&r=$randstr'>Accueil</a>
+            data-transition="slide" href='index.php?view=$user&r=$randstr'>Accueil</a>
           <a data-role='button' data-inline='true' data-icon='user'
             data-transition="slide" href='members.php?r=$randstr'>Membres</a>
           <a data-role='button' data-inline='true' data-icon='heart'
@@ -54,7 +54,7 @@ echo <<<_CONNECTE
           <a data-role='button' data-inline='true' data-icon='mail'
             data-transition="slide" href='messages.php?r=$randstr'>Messages</a>
           <a data-role='button' data-inline='true' data-icon='edit'
-            data-transition="slide" href='profile.php?r=$randstr'>Mon profil</a>
+            data-transition="slide" href='profile.php?r=$randstr'>Modifier mon profil</a>
           <a data-role='button' data-inline='true' data-icon='action'
             data-transition="slide" href='logout.php?r=$randstr'>Se déconnecter</a>
         </div>

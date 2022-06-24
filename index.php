@@ -24,10 +24,10 @@
   echo <<<_END
       </div><br>
     </div>
-    <div class="photos"><img  src='./images/dino-reichmuth-A5rCN8626Ck-unsplash.jpg'>
-    <img  src='./images/pietro-de-grandi-T7K4aEPoGGk-unsplash.jpg' alt= ''>
-    <img  src='./images/simon-english-dYcypsY4i3I-unsplash.jpg'>
-    <img  src='./images/DiskuT4.jpeg' alt='Photo by Christine Roy on Unsplash'>
+    <div class="photos"><a href="DormirAuth.php"><img  id="dormir" src='./images/dino-reichmuth-A5rCN8626Ck-unsplash.jpg'></a>
+    <a href="visites.php"><img id="visites" src='./images/pietro-de-grandi-T7K4aEPoGGk-unsplash.jpg'></a>
+    <a href="activites.php"><img id ="activites" src='./images/simon-english-dYcypsY4i3I-unsplash.jpg'></a>
+    <a href="infos.php"><img id="infos" src='./images/DiskuT4.jpeg'></a>
     </div>
 
   </body>
@@ -37,7 +37,7 @@ _END;
 
 <div class="center">
   <h2>Contacts</h2>
-    <a href="https://www.linkedin.com/in/cyrille-marc-3914a5130/" target="_blank"><img src="./images/LinkedIn_logo_initials.png" class="coordonnées" ></a>
-    <a href="https://github.com/CyrilleMarc" target="_blank"><img src="./images/GitHub-logo.jpg" class="coordonnées"></a>
-    <a href="" target="_blank"><img src="./images/cm.jpeg" class="coordonnées"></a>
+    <a href="https://www.linkedin.com/in/cyrille-marc-3914a5130/" target="_blank"><img id ="linkedin" src="./images/LinkedIn_logo_initials.png" class="coordonnées" ></a>
+    <a href="https://github.com/CyrilleMarc" target="_blank"><img id ="github" src="./images/GitHub-logo.jpg" class="coordonnées"></a>
+    <a href="" target="_blank"><img id ="portfolio"src="./images/cm.jpeg" class="coordonnées"></a>
 </div>

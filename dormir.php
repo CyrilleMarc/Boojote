@@ -16,7 +16,7 @@
   <map name="reg">
     <area
       shape="poly"
-      coords="108,208,98,203,88,196,84,200,70,188,52,183,45"
+      coords="841,500,1045,625"
       href="https://www.grandsgites.com/gite-randonnees.htm"
       target="blank"
       alt="Lorraine">

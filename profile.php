@@ -47,7 +47,7 @@
     {
       list($w, $h) = getimagesize($saveto);
 
-      $max = 100;
+      $max = 30;
       $tw  = $w;
       $th  = $h;
 

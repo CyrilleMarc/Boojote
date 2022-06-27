@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="https://fonts.googleapis.com/css2?family=Amatic+SC&family=Hurricane&family=IBM+Plex+Sans+Thai+Looped:wght@300&family=Inspiration&family=Palette+Mosaic&family=Raleway:wght@100&display=swap" 
   rel="stylesheet">
-  <!-- <link rel='stylesheet' href='styles.css' type='text/css'> -->
+  <link rel='stylesheet' href='styles.css' type='text/css'>
   <title>Boojote</title>
 </head>
 <body>

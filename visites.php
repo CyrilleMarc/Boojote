@@ -1,12 +1,7 @@
 
  <?php 
  require_once 'header.php';
- 
 ?>
-
-
- }
- ?>
  <!DOCTYPE html>
  <html lang="en">
  <head>
@@ -16,7 +11,7 @@
     <title>Visiter</title>
  </head>
  <body>
-  <h1>VISITER</h1>
+  <h3 class="center">VISITER</h3>
  <img id="carte" src ="./images/carte-france-regions.png"></a>
  </body>
  </html>

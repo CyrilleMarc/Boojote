@@ -185,18 +185,18 @@ h2{
     height: auto;
   }
   #dormir:hover{
-    margin-right: 5px;
+    margin-right: 10px;
   } 
   
   #visites:hover{
-    margin-right: 5px;
+    margin-right: 10px;
   } 
   
   #activites:hover{
-    margin-right: 5px;
+    margin-right: 10px;
   } 
   
   #infos:hover{
-    margin-right: 5px;
+    margin-right: 10px;
   } 
 }

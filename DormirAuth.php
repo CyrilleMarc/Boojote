@@ -2,7 +2,7 @@
     if($loggedin = TRUE){
         header("location: ./dormir.php");
     }
-    if($loggedin = FALSE){
+    else{
         header("location: ./signup.php");
     }
 

@@ -12,7 +12,15 @@
     <title>Dormir</title>
  </head>
  <body>
- <img id="carte" src ="./images/carte-france-regions.png"></a>
+ <img id="carte" src ="./images/carte-france-regions.png" alt="Carte de France" usemap="#reg">
+  <map name="reg">
+    <area
+      shape="poly"
+      coords="108,208,98,203,88,196,84,200,70,188,52,183,45"
+      href="https://www.grandsgites.com/gite-randonnees.htm"
+      target="blank"
+      alt="Lorraine">
+  </map>
  </body>
  </html>
 <div class="center">

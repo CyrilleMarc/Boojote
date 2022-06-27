@@ -18,7 +18,7 @@
 
   echo "<div class='center'>";
 
-  if ($loggedin) echo ", $user, vous êtes connecté.";
+  if ($loggedin) echo "HEurex de vous revoir sur Boojote " . $user;
   else           echo '.<br>Inscrivez-vous ou connectez-vous pour nous rejoindre.';
 
   echo <<<_END

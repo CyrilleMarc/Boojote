@@ -16,6 +16,7 @@
     <title>Visiter</title>
  </head>
  <body>
+  <h1>VISITER</h1>
  <img id="carte" src ="./images/carte-france-regions.png"></a>
  </body>
  </html>

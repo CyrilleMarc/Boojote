@@ -15,8 +15,8 @@
  <img id="carte" src ="./images/carte-france-regions.png" alt="Carte de France" usemap="#reg">
   <map name="reg">
     <area
-      shape="poly"
-      coords="841,500,1045,625"
+      shape="rect"
+      coords="1024,630,872,495"
       href="https://www.grandsgites.com/gite-randonnees.htm"
       target="blank"
       alt="Lorraine">

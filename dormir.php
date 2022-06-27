@@ -10,7 +10,7 @@
     <title>Visiter</title>
  </head>
  <body>
-  <h2 class="center">Cliquez sur une région pour trouver oùu dormir.</h2>	
+  <h2 class="center">Cliquez sur une région pour trouver où dormir.</h2>	
 			<img id="carte" src="./images/carte-france-regions.png" width="390" height="330" usemap="#logomap" alt="Carte de france" />
 			
 			<map name="logomap">
@@ -35,7 +35,7 @@
 				<area shape="rect" coords="117,244,136,257" href="http://france.meteofrance.com/france/meteo?PREVISIONS_PORTLET.path=previsionsregion%2FREG08/20100719150000" target="_blank" title="17°C" 					  /> -->
 			</map>
 			
-			<h3><u>Carte de France</u></h3><small><h5 valign="top"><i>(27/06/2022)</i></h5></small>
+			<!-- <h3><u>Carte de France</u></h3><small><h5 valign="top"><i>(27/06/2022)</i></h5></small> -->
  </body>
  </html>
 <div class="center">

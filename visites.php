@@ -11,7 +11,7 @@
     <title>Visiter</title>
  </head>
  <body>
-  <h2 class="center">VISITER</h2>
+  <h2 class="center">Cliquez sur une région pour trouver un lieu à visiter.</h2>
  <img id="carte" src ="./images/carte-france-regions.png"></a>
  </body>
  </html>

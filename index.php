@@ -24,7 +24,7 @@
   echo <<<_END
       </div><br>
     </div>
-    <div class="photos"><a href="DormirAuth.php"><img  id="dormir" src='./images/dino-reichmuth-A5rCN8626Ck-unsplash.jpg'></a>
+    <div class="photos"><a href="dormir.php"><img  id="dormir" src='./images/dino-reichmuth-A5rCN8626Ck-unsplash.jpg'></a>
     <a href="visites.php"><img id="visites" src='./images/pietro-de-grandi-T7K4aEPoGGk-unsplash.jpg'></a>
     <a href="activites.php"><img id ="activites" src='./images/simon-english-dYcypsY4i3I-unsplash.jpg'></a>
     <a href="infos.php"><img id="infos" src='./images/DiskuT4.jpeg'></a>

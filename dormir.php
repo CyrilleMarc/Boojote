@@ -12,6 +12,7 @@
     <title>Dormir</title>
  </head>
  <body>
+ <h2 class="center">Cliquez sur une région pour trouver où dormir.</h2>
  <img id="carte" src="./images/carte-france-regions.png" alt="Carte de France" usemap="#DormirMap">
   <map name="DormirMap">
     <area id="Lorraine"

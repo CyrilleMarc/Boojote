@@ -25,7 +25,7 @@
 				<area shape="rect" coords="199,85,245,100"  href="http://france.meteofrance.com/france/meteo?PREVISIONS_PORTLET.path=previsionsregion%2FREG12/20100719150000" target="_blank" title="Ville de Paris" 	  	  />
 				<area shape="rect" coords="324,87,370,102"  href="http://france.meteofrance.com/france/meteo?PREVISIONS_PORTLET.path=previsionsregion%2FREG22/20100719150000" target="_blank" title="Ville de Strasbourg"	  />
 				<area shape="rect" coords="322,100,343,115" href="http://france.meteofrance.com/france/meteo?PREVISIONS_PORTLET.path=previsionsregion%2FREG22/20100719150000" target="_blank" title="21°C" 				 	  /> -->
-				<area shape="circle" coords="560,250,90" href= "https://www.cap-adrenaline.com/lorraine-R15.html" target="_blank" title="Gîtes en Lorraine"/>
+				<area shape="circle" coords="560,250,90" href= "https://www.cap-adrenaline.com/lorraine-R15.html" target="_blank" title="Activités en Lorraine"/>
 				<!-- <area shape="rect" coords="267,279,313,294" href="http://france.meteofrance.com/france/meteo?PREVISIONS_PORTLET.path=previsionsregion%2FREG19/20100719150000" target="_blank" title="Ville de Marseille" 	  />
 				<area shape="rect" coords="265,290,285,305" href="http://france.meteofrance.com/france/meteo?PREVISIONS_PORTLET.path=previsionsregion%2FREG19/20100719150000" target="_blank" title="20°C" 				  	  />
 				<area shape="rect" coords="345,305,363,320" href="http://france.meteofrance.com/france/meteo?PREVISIONS_PORTLET.path=previsionsregion%2FREG17/20100719150000" target="_blank" title="Ville de Ajaccio - 19°C" />

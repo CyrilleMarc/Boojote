@@ -157,9 +157,10 @@ h2{
 @media only screen and (max-width: 2350px) {
   img {
     width:24%;
+    height: 30%;
   }
 }
-@media only screen and (max-width: 1420px) {
+@media only screen and (max-width: 1200px) {
   img {
     width:49%;
   }

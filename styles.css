@@ -184,4 +184,19 @@ h2{
     margin-top: 8px;
     height: auto;
   }
+  #dormir:hover{
+    padding: 5px;
+  } 
+  
+  #visites:hover{
+    padding: 5px;
+  } 
+  
+  #activites:hover{
+    padding: 5px;
+  } 
+  
+  #infos:hover{
+    padding: 5px;
+  } 
 }

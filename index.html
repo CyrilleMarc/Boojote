@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+    <div align="center" id="demo">
+        <h2><div id="success" align="center" style="color:green"></div></h2>
+
+    </div>
+    <form id="formulaire" style="display:flex; align-items: center; justify-content: center; padding: 10px;">
+        <input type="texte" id="lettre" ; style="text-align: center; margin: 10px; width:50px; height: 50px"
+            maxlength="1">
+        <!-- <input type="texte" id="lettre"; style="text-align: center; margin: 10px; width:50px; height: 50px" maxlength="1";>
+    <input type="texte" id="lettre"; style="text-align: center; margin: 10px; width:50px; height: 50px" maxlength="1";>
+    <input type="texte" id="lettre"; style="text-align: center; margin: 10px; width:50px; height: 50px" maxlength="1";>
+    <input type="texte" id="lettre"; style="text-align: center; margin: 10px; width:50px; height: 50px" maxlength="1";> -->
+        <button style=" margin: 10px; width:50px; height: 50px" ; type="button"
+            onclick= TabFill() ;>Click me</button>
+    </form>
+
+    <script>
+        function TabFill() {
+            var tab1 = [];
+            var tab2 = [];
+            tab1.push("a", "r", "c", "h", "e")
+            tab2.push("a", "r", "c", "h", "e");
+                    for(i=0; i < tab1.length; i++){
+                        for(j=0; j < tab2.length; j++)
+                    if(tab1[i] == tab2[j]){
+                        console.log('lettre identique');
+                        console.log(tab1);
+
+                    }else{
+                        console.log("lettre differente");
+                    }
+                }
+    
+        function isEqual(tab1, tab2) {
+                if (tab1.length !== tab2.length){
+                return false
+                return tab1.every((value, index) => value === tab2[index])
+                }if(resultat = isEqual(tab1, tab2)){
+            var bravo = ('Bravo, vous avez trouvez le bon mot !')
+            document.getElementById("success").innerHTML = bravo;
+                }
+            }
+        }
+           
+
+    </script>
+</body>
+
+</html>
